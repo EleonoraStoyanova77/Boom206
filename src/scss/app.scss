@@ -16,14 +16,14 @@
 .hero{
   max-height: 350px;
 }
-.title{
+.hero.title{
   padding: 50px 0px 10px;
 }
-.button{
+.hero.button{
   padding: 20px 40px;
   margin-left: 5px;
 }
-.button-container{
+.hero .button-container{
   margin-top: 30px;
 }
 
